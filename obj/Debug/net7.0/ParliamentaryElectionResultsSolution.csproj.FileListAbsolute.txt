@@ -1,0 +1,42 @@
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\11. Hafta 21.10.2023 .Net Core\ParliamentaryElectionResultsSolution\bin\Debug\net7.0\ParliamentaryElectionResultsSolution.exe
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\11. Hafta 21.10.2023 .Net Core\ParliamentaryElectionResultsSolution\bin\Debug\net7.0\ParliamentaryElectionResultsSolution.deps.json
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\11. Hafta 21.10.2023 .Net Core\ParliamentaryElectionResultsSolution\bin\Debug\net7.0\ParliamentaryElectionResultsSolution.runtimeconfig.json
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\11. Hafta 21.10.2023 .Net Core\ParliamentaryElectionResultsSolution\bin\Debug\net7.0\ParliamentaryElectionResultsSolution.dll
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\11. Hafta 21.10.2023 .Net Core\ParliamentaryElectionResultsSolution\bin\Debug\net7.0\ParliamentaryElectionResultsSolution.pdb
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\11. Hafta 21.10.2023 .Net Core\ParliamentaryElectionResultsSolution\obj\Debug\net7.0\ParliamentaryElectionResultsSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\11. Hafta 21.10.2023 .Net Core\ParliamentaryElectionResultsSolution\obj\Debug\net7.0\ParliamentaryElectionResultsSolution.AssemblyInfoInputs.cache
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\11. Hafta 21.10.2023 .Net Core\ParliamentaryElectionResultsSolution\obj\Debug\net7.0\ParliamentaryElectionResultsSolution.AssemblyInfo.cs
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\11. Hafta 21.10.2023 .Net Core\ParliamentaryElectionResultsSolution\obj\Debug\net7.0\ParliamentaryElectionResultsSolution.csproj.CoreCompileInputs.cache
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\11. Hafta 21.10.2023 .Net Core\ParliamentaryElectionResultsSolution\obj\Debug\net7.0\ParliamentaryElectionResultsSolution.dll
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\11. Hafta 21.10.2023 .Net Core\ParliamentaryElectionResultsSolution\obj\Debug\net7.0\refint\ParliamentaryElectionResultsSolution.dll
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\11. Hafta 21.10.2023 .Net Core\ParliamentaryElectionResultsSolution\obj\Debug\net7.0\ParliamentaryElectionResultsSolution.pdb
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\11. Hafta 21.10.2023 .Net Core\ParliamentaryElectionResultsSolution\obj\Debug\net7.0\ParliamentaryElectionResultsSolution.genruntimeconfig.cache
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\11. Hafta 21.10.2023 .Net Core\ParliamentaryElectionResultsSolution\obj\Debug\net7.0\ref\ParliamentaryElectionResultsSolution.dll
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\10. Hafta 14.10.2023 Oop + txt Dosyasından Bilgi Alma\10.Hafta_Ödev\ParliamentaryElectionResultsSolution\bin\Debug\net7.0\ParliamentaryElectionResultsSolution.exe
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\10. Hafta 14.10.2023 Oop + txt Dosyasından Bilgi Alma\10.Hafta_Ödev\ParliamentaryElectionResultsSolution\bin\Debug\net7.0\ParliamentaryElectionResultsSolution.deps.json
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\10. Hafta 14.10.2023 Oop + txt Dosyasından Bilgi Alma\10.Hafta_Ödev\ParliamentaryElectionResultsSolution\bin\Debug\net7.0\ParliamentaryElectionResultsSolution.runtimeconfig.json
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\10. Hafta 14.10.2023 Oop + txt Dosyasından Bilgi Alma\10.Hafta_Ödev\ParliamentaryElectionResultsSolution\bin\Debug\net7.0\ParliamentaryElectionResultsSolution.dll
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\10. Hafta 14.10.2023 Oop + txt Dosyasından Bilgi Alma\10.Hafta_Ödev\ParliamentaryElectionResultsSolution\bin\Debug\net7.0\ParliamentaryElectionResultsSolution.pdb
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\10. Hafta 14.10.2023 Oop + txt Dosyasından Bilgi Alma\10.Hafta_Ödev\ParliamentaryElectionResultsSolution\obj\Debug\net7.0\ParliamentaryElectionResultsSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\10. Hafta 14.10.2023 Oop + txt Dosyasından Bilgi Alma\10.Hafta_Ödev\ParliamentaryElectionResultsSolution\obj\Debug\net7.0\ParliamentaryElectionResultsSolution.AssemblyInfoInputs.cache
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\10. Hafta 14.10.2023 Oop + txt Dosyasından Bilgi Alma\10.Hafta_Ödev\ParliamentaryElectionResultsSolution\obj\Debug\net7.0\ParliamentaryElectionResultsSolution.AssemblyInfo.cs
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\10. Hafta 14.10.2023 Oop + txt Dosyasından Bilgi Alma\10.Hafta_Ödev\ParliamentaryElectionResultsSolution\obj\Debug\net7.0\ParliamentaryElectionResultsSolution.csproj.CoreCompileInputs.cache
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\10. Hafta 14.10.2023 Oop + txt Dosyasından Bilgi Alma\10.Hafta_Ödev\ParliamentaryElectionResultsSolution\obj\Debug\net7.0\ParliamentaryElectionResultsSolution.dll
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\10. Hafta 14.10.2023 Oop + txt Dosyasından Bilgi Alma\10.Hafta_Ödev\ParliamentaryElectionResultsSolution\obj\Debug\net7.0\refint\ParliamentaryElectionResultsSolution.dll
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\10. Hafta 14.10.2023 Oop + txt Dosyasından Bilgi Alma\10.Hafta_Ödev\ParliamentaryElectionResultsSolution\obj\Debug\net7.0\ParliamentaryElectionResultsSolution.pdb
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\10. Hafta 14.10.2023 Oop + txt Dosyasından Bilgi Alma\10.Hafta_Ödev\ParliamentaryElectionResultsSolution\obj\Debug\net7.0\ParliamentaryElectionResultsSolution.genruntimeconfig.cache
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\10. Hafta 14.10.2023 Oop + txt Dosyasından Bilgi Alma\10.Hafta_Ödev\ParliamentaryElectionResultsSolution\obj\Debug\net7.0\ref\ParliamentaryElectionResultsSolution.dll
+C:\Users\mesut\Documents\Github\Parliamentary-Election-Results-Solution\bin\Debug\net7.0\ParliamentaryElectionResultsSolution.exe
+C:\Users\mesut\Documents\Github\Parliamentary-Election-Results-Solution\bin\Debug\net7.0\ParliamentaryElectionResultsSolution.deps.json
+C:\Users\mesut\Documents\Github\Parliamentary-Election-Results-Solution\bin\Debug\net7.0\ParliamentaryElectionResultsSolution.runtimeconfig.json
+C:\Users\mesut\Documents\Github\Parliamentary-Election-Results-Solution\bin\Debug\net7.0\ParliamentaryElectionResultsSolution.dll
+C:\Users\mesut\Documents\Github\Parliamentary-Election-Results-Solution\bin\Debug\net7.0\ParliamentaryElectionResultsSolution.pdb
+C:\Users\mesut\Documents\Github\Parliamentary-Election-Results-Solution\obj\Debug\net7.0\ParliamentaryElectionResultsSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesut\Documents\Github\Parliamentary-Election-Results-Solution\obj\Debug\net7.0\ParliamentaryElectionResultsSolution.AssemblyInfoInputs.cache
+C:\Users\mesut\Documents\Github\Parliamentary-Election-Results-Solution\obj\Debug\net7.0\ParliamentaryElectionResultsSolution.AssemblyInfo.cs
+C:\Users\mesut\Documents\Github\Parliamentary-Election-Results-Solution\obj\Debug\net7.0\ParliamentaryElectionResultsSolution.csproj.CoreCompileInputs.cache
+C:\Users\mesut\Documents\Github\Parliamentary-Election-Results-Solution\obj\Debug\net7.0\ParliamentaryElectionResultsSolution.dll
+C:\Users\mesut\Documents\Github\Parliamentary-Election-Results-Solution\obj\Debug\net7.0\refint\ParliamentaryElectionResultsSolution.dll
+C:\Users\mesut\Documents\Github\Parliamentary-Election-Results-Solution\obj\Debug\net7.0\ParliamentaryElectionResultsSolution.pdb
+C:\Users\mesut\Documents\Github\Parliamentary-Election-Results-Solution\obj\Debug\net7.0\ParliamentaryElectionResultsSolution.genruntimeconfig.cache
+C:\Users\mesut\Documents\Github\Parliamentary-Election-Results-Solution\obj\Debug\net7.0\ref\ParliamentaryElectionResultsSolution.dll
